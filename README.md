@@ -1,4 +1,4 @@
-datass
+Datasas
 ======
 
-Datass is a big data project related with machine learning.
+Machine learning project.
